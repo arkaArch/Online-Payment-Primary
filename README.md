@@ -5,4 +5,4 @@
 
 Todo:
 1. Modify Navbar as per user
-2. Modify Dashboard to scroll list of users
+2. applied scroll on dashboard

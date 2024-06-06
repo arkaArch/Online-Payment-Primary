@@ -1,0 +1,44 @@
+{
+    "user_1": {
+        "firstname": "Devin",
+        "lastname": "Wise",
+        "email": "dwise@gmail.com",
+        "password": "6yhdfu78"
+    },
+    "user_2": {
+        "firstname": "Christina",
+        "lastname": "Preston",
+        "email": "christiana@gmail.com",
+        "password": "yte82091_7"
+    },
+    "user_3": {
+        "firstname": "Jameson",
+        "lastname": "Galvan",
+        "email": "galvanjemas1990@gmail.com",
+        "password": "849jHGDt*U"
+    },
+    "user_4": {
+        "firstname": "Ricky",
+        "lastname": "Harvey",
+        "email": "h_ricky_777@gmail.com",
+        "password": "sladfasld87d"
+    },
+    "user_5": {
+        "firstname": "Aspyn",
+        "lastname": "Lang",
+        "email": "langaspyn@gmail.com",
+        "password": "9*756HuDiuyF"
+    },
+    "user_6": {
+        "firstname": "Jayceon",
+        "lastname": "Roach",
+        "email": "roachjayceon@gmail.com",
+        "password": "899nduye"
+    },
+    "user_7": {
+        "firstname": "Forrest",
+        "lastname": "Vargas",
+        "email": "vargas987@gmail.com",
+        "password": "jdsk9)65&dam"
+    }
+}

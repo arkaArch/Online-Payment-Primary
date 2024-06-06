@@ -29,7 +29,7 @@ const Dashboard = () => {
                 </h1>
             </div>
 
-            <div className="bg-slate-50 my-10 p-10 border rounded-md shadow">
+            <div className="max-h-[32rem] bg-slate-50 my-10 p-10 border rounded-md shadow overflow-scroll">
                 <SearchBar
                     value={searchQuery}
                     onChange={(e) => { setSearchQuery(e.target.value) }}
